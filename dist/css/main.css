@@ -57,11 +57,16 @@ body {
 }
 
 .list {
-  margin: 0 auto;
+  margin: 10px auto;
 }
 
 .list li {
+  color: darkcyan;
   padding: 2px;
   font-size: 18px;
+}
+
+.target-date {
+  margin-top: 10px;
 }
 /*# sourceMappingURL=main.css.map */
